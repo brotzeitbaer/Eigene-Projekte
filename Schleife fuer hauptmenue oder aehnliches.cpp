@@ -10,9 +10,9 @@ int main()
 	{
 		
 		cout << "        |Menue|          \n";
-		cout << "1. fuer erste  testzone  \n";
-		cout << "2. fuer zweite testzone  \n";
-		cout << "0. fuer         beenden\n\n";
+		cout << "1. Fuer erste  Testzone  \n";
+		cout << "2. Fuer zweite Testzone  \n";
+		cout << "0. Fuer   Spiel Beenden\n\n";
 		cin  >> eingabe;
 		
 		if (eingabe == 1)
