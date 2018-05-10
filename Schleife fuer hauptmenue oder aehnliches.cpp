@@ -24,7 +24,7 @@ int main()
 			cout << "\nzweite testzone\n\n";
 		}else if (eingabe == 0)
 		{
-			
+			cout << "man sieht sich\n";
 		}
 		
 		else
