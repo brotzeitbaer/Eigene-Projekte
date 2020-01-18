@@ -19,6 +19,19 @@ cout << "           |Alle Tastenkuerzel|" << endl
 	 << "strg + . =          kommentar slashes erzeugen" << endl
 	 << "strg + a =                      alles makieren" << endl
 	 << "Shift + pfeil beliebige richtung =    makieren" << endl;
+	 << "F5       =                            Debuggen" << endl;
+	 << "strg + F5=               starten ohne Debuggen" << endl;
+	
+	 /* 	\n = Carriage Return (Zeilenumbruch)
+	 	\t = Horizontaler Tabulator
+		\v = Vertikaler Tabulator
+		\r = Zum Zeilenanfang zurückspringen
+		\b = Ein Zeichen zurück
+		\" = Anführungszeichen einfügen
+		\\ = Backslash einfügen
+		\a = Beep (Signalton)
+	*/
+	
 
 return 0;
 	
