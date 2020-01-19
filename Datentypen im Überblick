@@ -26,12 +26,12 @@ int main()
 
 	cout <<    "speicherbedarf der datentypen:"					  << endl
 			<< "------------------------------\n"                 << endl
-			<< "bool benoetigt  : " << sizeof(bool) << " Bytes"   << endl
-		   	<< "int benoetigt   : " << sizeof(int) << " Bytes"    << endl
-			<< "short benoetigt : " << sizeof(short) << " Bytes"  << endl
-			<< "long benoetigt  : " << sizeof(long) << " Bytes"   << endl
-			<< "char benoetigt  : " << sizeof(char) << " Bytes"	  << endl
-			<< "float benoetigt : " << sizeof(float) << " Bytes"  << endl
+			<< "bool benoetigt  : " << sizeof(bool)   << " Bytes" << endl
+		   	<< "int benoetigt   : " << sizeof(int)    << " Bytes" << endl
+			<< "short benoetigt : " << sizeof(short)  << " Bytes" << endl
+			<< "long benoetigt  : " << sizeof(long)   << " Bytes" << endl
+			<< "char benoetigt  : " << sizeof(char)   << " Bytes  << endl
+			<< "float benoetigt : " << sizeof(float)  << " Bytes" << endl
 			<< "double benoetigt: " << sizeof(double) << " Bytes" << endl;
 
 		/*mit "sizeof" können wir den speicherbedarf ausgeben.
