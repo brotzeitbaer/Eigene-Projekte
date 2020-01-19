@@ -7,15 +7,15 @@ int main()
 	/* Um bei einer Variablen immer leicht sehen zu können um welchen Datentyp es sich handelt, nutzt man die sogenannte ungarische Notation.
 	Zum Beispiel fspeed wäre eine float Variable. */
 
-	cout << "|Datentyp|           |Praefix|   " << endl
-		<< " bool                 b         " << endl
-		<< " int                  n         " << endl
-		<< " char                 ch        " << endl
-		<< " array                a         " << endl
-		<< " DWORD                dw        " << endl
-		<< " WORD                 w         " << endl
-		<< " Zeiger               p         " << endl
-		<< " Instanz einer Klasse m         " << endl;
+	cout << "|Datentyp|           |Praefix|\n" 
+		<< " bool                 b         \n" 
+		<< " int                  n         \n" 
+		<< " char                 ch        \n" 
+		<< " array                a         \n" 
+		<< " DWORD                dw        \n" 
+		<< " WORD                 w         \n" 
+		<< " Zeiger               p         \n" 
+		<< " Instanz einer Klasse m           " << endl;
 
 	return 0;
 }
